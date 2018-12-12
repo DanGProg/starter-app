@@ -1,0 +1,19 @@
+{
+  "name": "starter-app",
+  "authors": [
+    "Micah Stewart <stewart.micah@gmail.com>"
+  ],
+  "description": "Minimal folder structure needed for a simple web project.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "browser-sync": "^2.11.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-watch": "^4.3.5"
+  }
+}
